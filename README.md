@@ -60,7 +60,7 @@ This guide outlines the **Post-Installation Configuration** of **osTicket** afte
 
 ### 5️⃣ Adjust User Ticket Submission Settings
 - **Path:** `Admin Panel → Settings → User Settings`
-- **Allow Anyone to Create Tickets?** ❌ *(Uncheck this option to allow anyone to create tickets)*
+- **Allow Anyone to Create Tickets?** ❌ *(Uncheck this option to allow users to create tickets without logging in)*
 - **Enable Registration Requirement:** ✅ *(Users must log in to submit tickets)*
 
 ![Screenshot 2025-03-18 102033](https://github.com/user-attachments/assets/76ada915-51e1-4228-b778-70172045cc51)
